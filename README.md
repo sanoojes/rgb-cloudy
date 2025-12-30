@@ -15,7 +15,7 @@ Room decoration and cool vibes
 
 ## Bill of materials
 
-<img width="1920" height="1078" alt="image" src="https://gist.github.com/user-attachments/assets/0cd17f92-3fe1-4d33-b7d0-b0785950cb5f" />
+![Bom Preview](images/bom.png)
 
 Spreadsheet avilable at
 [https://docs.google.com/spreadsheets/d/1OJPtkw0SCkZNgRojZ8LpgQu2vuTfVBWPjUPChstTOQI/](https://docs.google.com/spreadsheets/d/1OJPtkw0SCkZNgRojZ8LpgQu2vuTfVBWPjUPChstTOQI/)
