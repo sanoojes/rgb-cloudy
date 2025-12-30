@@ -25,7 +25,18 @@ Spreadsheet avilable at
 Totaling a 192USD. Which i think is reasonable for a wall + small ceiling area
 where my Laptop sits.
 
-### Some notes:
+## Firmware
+
+Alsoooooo, i need a to figure out the firmware? code? or smart home solution
+that i will use, But i think i will use the
+[HomeAssistant.io](https://www.home-assistant.io/) as it has
+[WLED integration](https://www.home-assistant.io/integrations/wled/) to use
+[WLED](https://kno.wled.ge/) to drive the LEDs, as its better to integrate the
+stuff into one.
+
+And write a custom firmware for the sake of learning.
+
+### NOTES:
 
 I think i can source Fiber fill, Foam sheets offline for much less price but idk
 if HCB cards work with local vendors and they might not be able to process the
